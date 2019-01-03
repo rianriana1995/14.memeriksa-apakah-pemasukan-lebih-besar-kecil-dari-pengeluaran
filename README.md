@@ -1,0 +1,1 @@
+# 14.memeriksa-apakah-pemasukan-lebih-besar-kecil-dari-pengeluaran
